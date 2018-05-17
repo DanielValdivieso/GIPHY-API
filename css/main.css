@@ -1,0 +1,22 @@
+#header{
+    background: rgb(201, 0, 0);
+    color: #ffff;   
+}
+
+#button-place{
+background-color: red;
+color: #ffff;
+}
+
+.text-left{
+    object-fit: cover;
+}
+
+body{
+
+background-color: aquamarine;
+}
+#new-movie {
+	padding: 2px;
+	width: 80%;
+}

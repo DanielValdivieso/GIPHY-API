@@ -1,0 +1,14 @@
+#header{
+    background: rgb(201, 0, 0);
+    color: #ffff;   
+}
+
+
+.text-left{
+    object-fit: cover;
+}
+
+body{
+
+background-color: aquamarine;
+}
